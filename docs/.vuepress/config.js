@@ -1,5 +1,6 @@
 module.exports = {
-  title: 'VuePress Docs',
+  base: '/vuepress-starter/',
+  title: 'VuePress Documents',
   description: 'Document editting system for Project',
   base: '/vuepress-starter',
   themeConfig: {
